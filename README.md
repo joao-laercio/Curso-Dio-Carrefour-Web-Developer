@@ -2,16 +2,20 @@
 
 ## Aulas
 
-*Raciocínio Lógico
+### * Raciocínio Lógico
 
-*Logica de Programação:
+### * Logica de Programação:
 
 Algoritmo, Pseudocódigo.
 
-[Jogo exercício algoritmo](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
+Link para treino de algoritmo: [Jogo Pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
 
-*Fluxograma e constantes
+### * Fluxograma e constantes
 
-*Portugol
+### * Portugol
 
-*Git/Github
+Site de Download: [Portugol Download](http://lite.acad.univali.br/portugol/)
+
+### * Git/Github
+
+Site: [Git/Github](https://github.com/)
