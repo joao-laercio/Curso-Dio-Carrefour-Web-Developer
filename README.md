@@ -8,7 +8,7 @@
 
  * Algoritmo, Pseudocódigo.
 
- * Link para treino de algoritmo: [Jogo Pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
+ * Link para treino de Pseudocódigo: [Jogo Pinguins](https://rachacuca.com.br/jogos/pinguins-numa-fria/)
 
 ### Fluxograma e constantes
 
