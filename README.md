@@ -4,7 +4,7 @@
 
 ### Raciocínio Lógico
 
-### Logica de Programação
+### Lógica de Programação
 
  * Algoritmo, Pseudocódigo.
 
