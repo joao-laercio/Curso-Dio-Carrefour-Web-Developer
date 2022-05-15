@@ -18,4 +18,4 @@
 
 ### Git/Github
 
- * Site: [Git/Github](https://github.com/)
+ * Site de Download: [Git/Github](https://desktop.github.com/)
