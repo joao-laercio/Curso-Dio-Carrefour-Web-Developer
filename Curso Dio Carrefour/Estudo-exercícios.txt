@@ -1,0 +1,11 @@
+#Portugol
+ 
+ *Se e Senão
+
+se(media>=7) {
+	escreva("\n"+"parabens!!")
+}
+
+senão {
+	escreva("\n"+"Infelismente foi reprovado")
+}
